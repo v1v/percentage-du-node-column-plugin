@@ -1,11 +1,11 @@
-PercentageColumn Plugin
-=======================
+Percentage DU Node Column Plugin
+================================
 
-This plugin shows the usage percentage of slave on "Manage Node" page.
+This plugin shows the percentage of disk space usage of each slave on "Manage Node" page.
 
-See [PercentageColumn Plugin](https://wiki.jenkins-ci.org/display/JENKINS/PercentageColumn+Plugin) for more information.
+See [Percentage Disk Space Node Column Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Percentage+Disk+Space+Node+Column+Plugin) for more information.
 
-[![Build Status](https://jenkins.ci.cloudbees.com/buildStatus/icon?job=plugins/percentagecolumn-plugin)](https://jenkins.ci.cloudbees.com/job/plugins/job/percentagecolumn-plugin/)
+[![Build Status](https://jenkins.ci.cloudbees.com/buildStatus/icon?job=plugins/percentage-du-node-column)](https://jenkins.ci.cloudbees.com/job/plugins/job/percentage-du-node-column/)
 
 
 Motivation
@@ -18,7 +18,8 @@ slave is exhausted based on another metrics in order to run another processes.
 TODO
 ====
 
-- Add Administration checker.
+- Add Threshold check.
+- Add Test Cases.
 
 
 Development
