@@ -5,7 +5,7 @@ This plugin shows the percentage of disk space usage of each slave on "Manage No
 
 See [Percentage Disk Space Node Column Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Percentage+Disk+Space+Node+Column+Plugin) for more information.
 
-[![Build Status](https://jenkins.ci.cloudbees.com/buildStatus/icon?job=plugins/percentage-du-node-column)](https://jenkins.ci.cloudbees.com/job/plugins/job/percentage-du-node-column/)
+[![Build Status](https://jenkins.ci.cloudbees.com/buildStatus/icon?job=plugins/percentage-du-node-column-plugin)](https://jenkins.ci.cloudbees.com/job/plugins/job/percentage-du-node-column-plugin/)
 
 
 Motivation
