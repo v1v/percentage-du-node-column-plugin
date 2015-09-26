@@ -9,7 +9,7 @@
 
     <artifactId>percentage-du-node-column</artifactId>
     <packaging>hpi</packaging>
-    <version>0.2.0-SNAPSHOT</version>
+    <version>0.1.0-SNAPSHOT</version>
     <name>Percentage Disk Space Node Column plugin</name>
     <url>https://wiki.jenkins-ci.org/display/JENKINS/Percentage+Disk+Space+Node+Column+Plugin</url>
 
@@ -48,8 +48,7 @@
         <connection>scm:git:git://github.com/jenkinsci/percentage-du-node-column-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:jenkinsci/percentage-du-node-column-plugin.git</developerConnection>
         <url>http://github.com/jenkinsci/percentage-du-node-column-plugin</url>
-      <tag>HEAD</tag>
-  </scm>
+    </scm>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
